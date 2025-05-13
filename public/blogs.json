@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "coverImg": "https://i.ibb.co/p6RWfgj1/notepad-laptop-concept.jpg",
+      "author": "Sophia Ray",
+      "author_img": "https://example.com/authors/sophia.jpg",
+      "deadline": "2025-06-10",
+      "title": "Top 10 Tech Trends to Watch in 2025",
+      "reading_time": 6,
+      "hashtag": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 2,
+      "coverImg": "https://i.ibb.co/GvDRB525/cactus-plant-coffee-cup-eyeglasses-laptop-white-background.jpg",
+      "author": "Liam Chowdhury",
+      "author_img": "https://example.com/authors/liam.jpg",
+      "deadline": "2025-06-05",
+      "title": "The Evolution of Remote Work: What’s Next?",
+      "reading_time": 5 ,
+      "hashtag": ["#RemoteWork", "#Career", "#WorkFromHome"]
+    },
+    {
+      "id": 3,
+      "coverImg": "https://i.ibb.co/HL9F87vT/young-woman-with-glasses-cafe.jpg",
+      "author": "Aisha Khan",
+      "author_img": "https://example.com/authors/aisha.jpg",
+      "deadline": "2025-06-20",
+      "title": "How AI is Revolutionizing Modern Design",
+      "reading_time": 7 ,
+      "hashtag": ["#AI", "#Design", "#UX"]
+    },
+    {
+      "id": 4,
+      "coverImg": "https://i.ibb.co/39xnFzvf/crop-hands-making-notes-using-laptop.jpg",
+      "author": "Noah Rahman",
+      "author_img": "https://example.com/authors/noah.jpg",
+      "deadline": "2025-06-15",
+      "title": "5 Lessons from Startup Growth in Emerging Markets",
+      "reading_time": 4,
+      "hashtag": ["#Startup", "#Business", "#Entrepreneurship"]
+    },
+    {
+      "id": 5,
+      "coverImg": "https://i.ibb.co/0jvgHZfk/people-relaxing-their-wooden-home.jpg",
+      "author": "Maya Sarker",
+      "author_img": "https://example.com/authors/maya.jpg",
+      "deadline": "2025-06-12",
+      "title": "Climate Change: The Urgency of Action",
+      "reading_time": 8,
+      "hashtag": ["#ClimateChange", "#Environment", "#Sustainability"]
+    }
+  ]
+  
