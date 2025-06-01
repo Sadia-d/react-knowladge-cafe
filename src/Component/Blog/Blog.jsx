@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaRegBookmark} from "react-icons/fa";
 
-const Blog = ({blog,handleAddToBookmark}) => {
+const Blog = ({blog,handleAddToBookmark ,  handleAddReadingTime}) => {
    
   const {coverImg , title ,author_img,author,
 deadline,reading_time , hashtag}=  blog
@@ -31,7 +31,9 @@ deadline,reading_time , hashtag}=  blog
 
             </div>
             <h2 className='text-3xl text-[#111111] font-bold mt-5'> {title}</h2>
-            <p className='text-gray-400 mt-5'>{hashtag}</p>
+            <p className='text-gray-400 mt-5 mb-4'>{hashtag}</p>
+
+            <button onClick={() => handleAddReadingTime(reading_time)} className='text-[#6047EC] mb-4 underline font-semibold'>Mark as read</button>
         </div>
     );
 };
